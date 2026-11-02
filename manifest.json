@@ -4,6 +4,7 @@
  "size": 3410448,
  "sha256": "69d94c04c2eaef983934ba0dd23a764978b3402054388c6b9a0852bbc4d4289a",
  "boards": [
-  "10:bd:a3:f3:a3:ac"
+  "10:bd:a3:f3:a3:ac",
+  "10:bd:a3:f2:0c:a0"
  ]
 }
