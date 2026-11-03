@@ -1,9 +1,0 @@
-{
- "version": "0.4.108",
- "image": "cws-0.4.108.enc",
- "size": 3439520,
- "sha256": "f3efe0ad509c642ab453ff5425e885ca7d9ff9eba2adea8b7c0d12ffb681fcef",
- "boards": [
-  "10:bd:a3:f3:a3:ac"
- ]
-}
