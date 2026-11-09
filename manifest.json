@@ -1,10 +1,9 @@
 {
- "version": "0.4.30",
- "image": "cws-0.4.30.enc",
- "size": 3410448,
- "sha256": "69d94c04c2eaef983934ba0dd23a764978b3402054388c6b9a0852bbc4d4289a",
+ "version": "0.4.37",
+ "image": "cws-0.4.37.enc",
+ "size": 3412512,
+ "sha256": "49ba12a5986ad70441d903f23a48e5d93074d67f83c4828404d965ea649260ea",
  "boards": [
-  "10:bd:a3:f3:a3:ac",
-  "10:bd:a3:f2:0c:a0"
+  "10:bd:a3:f3:a3:ac"
  ]
 }
