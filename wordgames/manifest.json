@@ -1,8 +1,8 @@
 {
- "version": "0.1.3",
- "image": "wg-0.1.3.enc",
- "size": 1522704,
- "sha256": "08730d3e4ac39e6d82fa38b523cf347f815c02711baca04692e15e55d64b50b2",
+ "version": "0.2.0",
+ "image": "wg-0.2.0.enc",
+ "size": 1543456,
+ "sha256": "79b832118b8841488aab3d8626afea9bd393441afa7422bc4bc45bad813091c1",
  "boards": [
   "e8:f6:0a:e9:89:2a"
  ]
