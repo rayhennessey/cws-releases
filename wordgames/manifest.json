@@ -1,0 +1,9 @@
+{
+ "version": "0.1.1",
+ "image": "wg-0.1.1.enc",
+ "size": 1522704,
+ "sha256": "8c0466bfcabde7f4a584ce892ab44f74f1d8f3314a6de4edd45f96220ba3cbc8",
+ "boards": [
+  "e8:f6:0a:e9:89:2a"
+ ]
+}
